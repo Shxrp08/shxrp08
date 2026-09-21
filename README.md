@@ -1,5 +1,5 @@
 # Uchiha D. Shxrp
-### Viltrumite, Student, Annihilator
+#
 Not well enough at using py, but im trying better
 #
 <p align="">
