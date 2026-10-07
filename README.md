@@ -1,4 +1,4 @@
-<h1><span style="color: red;">sharp.</span>
+<h2 style="color: red;">sharp.</h2>
 
 ## Not well enough at using py, but im trying better
 #
