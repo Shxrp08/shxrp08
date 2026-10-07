@@ -1,4 +1,4 @@
-<h2 style="color: red;">sharp.</h2>
+<p style="color: red; font-size: 2em; font-weight: bold;">sharp.</p>
 
 ## Not well enough at using py, but im trying better
 #
