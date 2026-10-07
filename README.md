@@ -1,4 +1,4 @@
-<p style="color: red; font-size: 2em; font-weight: bold;">sharp.</p>
+## ░a░v░e░s░.░D░.░s░h░a░r░p░
 
 ## Not well enough at using py, but im trying better
 #
