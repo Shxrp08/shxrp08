@@ -24,7 +24,7 @@
 ![SVM](https://img.shields.io/badge/SVM-E67E22?style=for-the-badge&logoColor=white)
 ![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-16A085?style=for-the-badge&logoColor=white)
 
-###Stats:
+### Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shxrp08&theme=dark)](https://git.io/streak-stats)
 
