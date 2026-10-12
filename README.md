@@ -24,7 +24,7 @@
 ![SVM](https://img.shields.io/badge/SVM-E67E22?style=for-the-badge&logoColor=white)
 ![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-16A085?style=for-the-badge&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME_KAMU&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shxrp08&theme=dark)](https://git.io/streak-stats)
 
 <p align="right">
 <img src="https://media.tenor.com/XlppxM3n8jcAAAAM/zhuang-fangyi-zhuang.gif" width="200" alt="Zhuang1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="156" alt="Larry1" />
