@@ -34,6 +34,8 @@
   <img width="32.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
 </p>
 
+---
+
 <p align="right">
 <img src="https://media.tenor.com/XlppxM3n8jcAAAAM/zhuang-fangyi-zhuang.gif" width="200" alt="Zhuang1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="156" alt="Larry1" />
   
