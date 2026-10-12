@@ -33,8 +33,7 @@
 </p>
 
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" /> 
-  <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=shxrp08&theme=github-compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
 </p>
 
 <p align="right">
