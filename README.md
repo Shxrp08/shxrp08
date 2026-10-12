@@ -1,4 +1,4 @@
-## Hi! you can call me, /ʃɑːɹp/ʃɑːp/sharp
+## Hi! you can call me Sharp!
 #### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
