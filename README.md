@@ -29,12 +29,12 @@
 ### Stats:
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark&hide_border=false" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shxrp08&theme=dark&show_icons=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shxrp08&theme=dark&show_icons=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
 </p>
 
 <p align="right">
