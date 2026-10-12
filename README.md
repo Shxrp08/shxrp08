@@ -19,9 +19,6 @@
 ![SVM](https://img.shields.io/badge/SVM-E67E22?style=for-the-badge&logoColor=white)
 ![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-16A085?style=for-the-badge&logoColor=white)
 
-<p align="">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-black-and-white.png" width="40" height="40" alt="Python" /> <img src="https://code.visualstudio.com/assets/branding/code-stable-white.png" width="40" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-colab.png" width="70" height="40" alt="Colab" />
-
 <p align="right">
 <img src="https://media.tenor.com/XlppxM3n8jcAAAAM/zhuang-fangyi-zhuang.gif" width="200" alt="Zhuang1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="156" alt="Larry1" />
   
