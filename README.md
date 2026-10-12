@@ -30,12 +30,11 @@
 
 <p align="center">
   <img width="40%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
-  
-  <br />
+</p>
 
-  <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=shxrp08&theme=github-compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shxrp08&theme=dark&layout=compact" />
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shxrp08&theme=dark&show_icons=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
 </p>
 
 <p align="right">
