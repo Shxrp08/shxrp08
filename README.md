@@ -28,16 +28,16 @@
 
 ### Stats:
 
-<p align="center">
+<p align="left">
   <img width="50%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shxrp08&theme=dark&show_icons=true" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
 </p>
 
-<p align="right">
+<p align="left">
 <img src="https://media.tenor.com/XlppxM3n8jcAAAAM/zhuang-fangyi-zhuang.gif" width="200" alt="Zhuang1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="156" alt="Larry1" />
   
 </p>
