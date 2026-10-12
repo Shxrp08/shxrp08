@@ -28,12 +28,14 @@
 
 ### Stats:
 
-<p align="left">
-  <img width="40%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark&hide_border=false" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shxrp08&theme=dark&layout=compact" />
-</p>
-
-<p align="left">
+<p align="center">
+  <img width="40%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
+  
+  <br />
+
+  <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=shxrp08&theme=github-compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shxrp08&theme=dark&layout=compact" />
 </p>
 
 <p align="right">
