@@ -38,6 +38,6 @@
 ---
 
 <p align="right">
-<img src="https://media1.tenor.com/m/ifkwAe47j_IAAAAC/si-endfield.gif" width="200" alt="Si1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="156" alt="Larry1" />
+<img src="https://media1.tenor.com/m/ifkwAe47j_IAAAAC/si-endfield.gif" width="300" alt="Si1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="156" alt="Larry1" />
   
 </p>
