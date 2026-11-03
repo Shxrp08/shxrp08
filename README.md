@@ -29,14 +29,13 @@
 
 ### Stats:
 
-<p align="center">
+<!-- <p align="center">
   <img width="31.8%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark" />
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=shxrp08&theme=dark&show_icons=true" />
   <img width="32.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxrp08&layout=compact&theme=dark" />
+</p> -->
+
+
+<p align="right">
+<img src="https://media1.tenor.com/m/ifkwAe47j_IAAAAC/si-endfield.gif" width="290" alt="Si1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="159" alt="Larry1" />
 </p>
-
-
-<!-- <p align="right"> -->
-<!-- <img src="https://media1.tenor.com/m/ifkwAe47j_IAAAAC/si-endfield.gif" width="290" alt="Si1" /> <img src="https://media.tenor.com/62-aXIQUtvQAAAAM/amazing-adorable.gif" width="159" alt="Larry1" />
-   -->
-<!-- </p> -->
