@@ -27,7 +27,7 @@
 
 ---
 
-### Stats:
+<!---### Stats:
 
 <!-- <p align="center">
   <img width="31.8%" src="https://streak-stats.demolab.com/?user=shxrp08&theme=dark" />
